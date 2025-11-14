@@ -1,0 +1,9 @@
+.env
+*.pem
+*.key
+secrets/
+credentials/
+node_modules/
+dist/
+build/
+*.log

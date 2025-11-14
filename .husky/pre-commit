@@ -1,0 +1,5 @@
+#!/bin/sh
+. "/usr/bin/_/husky.sh"
+npm run security-check
+npm run lint
+npm run secret-scan
